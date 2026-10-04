@@ -1,0 +1,17 @@
+{
+  "name": "daylight-decision",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Compare permanent daylight saving and standard time in your daily routine.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "test": "node tests/sunlight.cjs && node tests/scene-colors.cjs",
+    "build": "npm test",
+    "deploy": "wrangler deploy",
+    "og": "node scripts/create-social-card.cjs"
+  },
+  "devDependencies": {
+    "sharp": "0.35.5",
+    "wrangler": "4.147.0"
+  }
+}

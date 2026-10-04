@@ -1,0 +1,731 @@
+[
+  [
+    "bakersfield",
+    "Bakersfield, CA",
+    35.37329,
+    -119.01871,
+    -8,
+    true,
+    "Pacific"
+  ],
+  [
+    "fresno",
+    "Fresno, CA",
+    36.74773,
+    -119.77237,
+    -8,
+    true,
+    "Pacific"
+  ],
+  [
+    "las-vegas",
+    "Las Vegas, NV",
+    36.17497,
+    -115.13722,
+    -8,
+    true,
+    "Pacific"
+  ],
+  [
+    "los-angeles",
+    "Los Angeles, CA",
+    34.0522,
+    -118.2437,
+    -8,
+    true,
+    "Pacific"
+  ],
+  [
+    "portland-or",
+    "Portland, OR",
+    45.52345,
+    -122.67621,
+    -8,
+    true,
+    "Pacific"
+  ],
+  [
+    "reno",
+    "Reno, NV",
+    39.52963,
+    -119.8138,
+    -8,
+    true,
+    "Pacific"
+  ],
+  [
+    "sacramento",
+    "Sacramento, CA",
+    38.58157,
+    -121.4944,
+    -8,
+    true,
+    "Pacific"
+  ],
+  [
+    "san-diego",
+    "San Diego, CA",
+    32.71571,
+    -117.16472,
+    -8,
+    true,
+    "Pacific"
+  ],
+  [
+    "san-francisco",
+    "San Francisco, CA",
+    37.7749,
+    -122.4194,
+    -8,
+    true,
+    "Pacific"
+  ],
+  [
+    "seattle",
+    "Seattle, WA",
+    47.6062,
+    -122.3321,
+    -8,
+    true,
+    "Pacific"
+  ],
+  [
+    "spokane",
+    "Spokane, WA",
+    47.65966,
+    -117.42908,
+    -8,
+    true,
+    "Pacific"
+  ],
+  [
+    "albuquerque",
+    "Albuquerque, NM",
+    35.08449,
+    -106.65114,
+    -7,
+    true,
+    "Mountain"
+  ],
+  [
+    "billings",
+    "Billings, MT",
+    45.78329,
+    -108.50069,
+    -7,
+    true,
+    "Mountain"
+  ],
+  [
+    "boise",
+    "Boise, ID",
+    43.6135,
+    -116.20345,
+    -7,
+    true,
+    "Mountain"
+  ],
+  [
+    "cheyenne",
+    "Cheyenne, WY",
+    41.13998,
+    -104.82025,
+    -7,
+    true,
+    "Mountain"
+  ],
+  [
+    "colorado-springs",
+    "Colorado Springs, CO",
+    38.83388,
+    -104.82136,
+    -7,
+    true,
+    "Mountain"
+  ],
+  [
+    "denver",
+    "Denver, CO",
+    39.7392,
+    -104.9903,
+    -7,
+    true,
+    "Mountain"
+  ],
+  [
+    "el-paso",
+    "El Paso, TX",
+    31.75872,
+    -106.48693,
+    -7,
+    true,
+    "Mountain"
+  ],
+  [
+    "missoula",
+    "Missoula, MT",
+    46.87215,
+    -113.994,
+    -7,
+    true,
+    "Mountain"
+  ],
+  [
+    "phoenix",
+    "Phoenix, AZ",
+    33.4484,
+    -112.074,
+    -7,
+    false,
+    "Mountain"
+  ],
+  [
+    "salt-lake-city",
+    "Salt Lake City, UT",
+    40.76078,
+    -111.89105,
+    -7,
+    true,
+    "Mountain"
+  ],
+  [
+    "tucson",
+    "Tucson, AZ",
+    32.22174,
+    -110.92648,
+    -7,
+    false,
+    "Mountain"
+  ],
+  [
+    "austin",
+    "Austin, TX",
+    30.2672,
+    -97.7431,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "baton-rouge",
+    "Baton Rouge, LA",
+    30.44332,
+    -91.18747,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "birmingham",
+    "Birmingham, AL",
+    33.52066,
+    -86.80249,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "chicago",
+    "Chicago, IL",
+    41.8781,
+    -87.6298,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "dallas",
+    "Dallas, TX",
+    32.7767,
+    -96.797,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "des-moines",
+    "Des Moines, IA",
+    41.60054,
+    -93.60911,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "fargo",
+    "Fargo, ND",
+    46.87719,
+    -96.7898,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "houston",
+    "Houston, TX",
+    29.7604,
+    -95.3698,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "huntsville",
+    "Huntsville, AL",
+    34.7304,
+    -86.58594,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "jackson",
+    "Jackson, MS",
+    32.29876,
+    -90.18481,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "kansas-city",
+    "Kansas City, MO",
+    39.09973,
+    -94.57857,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "little-rock",
+    "Little Rock, AR",
+    34.74648,
+    -92.28959,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "memphis",
+    "Memphis, TN",
+    35.14953,
+    -90.04898,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "milwaukee",
+    "Milwaukee, WI",
+    43.0389,
+    -87.90647,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "minneapolis",
+    "Minneapolis, MN",
+    44.97997,
+    -93.26384,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "mobile",
+    "Mobile, AL",
+    30.69436,
+    -88.04305,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "nashville",
+    "Nashville, TN",
+    36.1627,
+    -86.7816,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "new-orleans",
+    "New Orleans, LA",
+    29.95465,
+    -90.07507,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "oklahoma-city",
+    "Oklahoma City, OK",
+    35.46756,
+    -97.51643,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "omaha",
+    "Omaha, NE",
+    41.25626,
+    -95.94043,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "pensacola",
+    "Pensacola, FL",
+    30.42131,
+    -87.21691,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "san-antonio",
+    "San Antonio, TX",
+    29.42412,
+    -98.49363,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "shreveport",
+    "Shreveport, LA",
+    32.52515,
+    -93.75018,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "st-louis",
+    "St. Louis, MO",
+    38.62727,
+    -90.19789,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "tulsa",
+    "Tulsa, OK",
+    36.15398,
+    -95.99277,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "wichita",
+    "Wichita, KS",
+    37.69224,
+    -97.33754,
+    -6,
+    true,
+    "Central"
+  ],
+  [
+    "atlanta",
+    "Atlanta, GA",
+    33.749,
+    -84.388,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "augusta",
+    "Augusta, GA",
+    33.47097,
+    -81.97484,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "baltimore",
+    "Baltimore, MD",
+    39.29038,
+    -76.61219,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "boston",
+    "Boston, MA",
+    42.3601,
+    -71.0589,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "buffalo",
+    "Buffalo, NY",
+    42.88645,
+    -78.87837,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "burlington",
+    "Burlington, VT",
+    44.47588,
+    -73.21207,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "charleston",
+    "Charleston, SC",
+    32.77632,
+    -79.93275,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "charlotte",
+    "Charlotte, NC",
+    35.22709,
+    -80.84313,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "cincinnati",
+    "Cincinnati, OH",
+    39.12711,
+    -84.51439,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "cleveland",
+    "Cleveland, OH",
+    41.4995,
+    -81.69541,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "columbia",
+    "Columbia, SC",
+    34.00071,
+    -81.03481,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "columbus",
+    "Columbus, OH",
+    39.96118,
+    -82.99879,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "detroit",
+    "Detroit, MI",
+    42.3314,
+    -83.0458,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "grand-rapids",
+    "Grand Rapids, MI",
+    42.96336,
+    -85.66809,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "indianapolis",
+    "Indianapolis, IN",
+    39.7684,
+    -86.1581,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "jacksonville",
+    "Jacksonville, FL",
+    30.33218,
+    -81.65565,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "lexington",
+    "Lexington, KY",
+    38.0498,
+    -84.45855,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "louisville",
+    "Louisville, KY",
+    38.25424,
+    -85.75941,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "miami",
+    "Miami, FL",
+    25.7617,
+    -80.1918,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "new-york",
+    "New York, NY",
+    40.7128,
+    -74.006,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "orlando",
+    "Orlando, FL",
+    28.53834,
+    -81.37924,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "philadelphia",
+    "Philadelphia, PA",
+    39.95238,
+    -75.16362,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "pittsburgh",
+    "Pittsburgh, PA",
+    40.44062,
+    -79.99589,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "portland-me",
+    "Portland, ME",
+    43.65737,
+    -70.2589,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "providence",
+    "Providence, RI",
+    41.82399,
+    -71.41283,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "raleigh",
+    "Raleigh, NC",
+    35.7721,
+    -78.63861,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "richmond",
+    "Richmond, VA",
+    37.55376,
+    -77.46026,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "tampa",
+    "Tampa, FL",
+    27.94752,
+    -82.45843,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "washington-dc",
+    "Washington, DC",
+    38.89511,
+    -77.03637,
+    -5,
+    true,
+    "Eastern"
+  ],
+  [
+    "anchorage",
+    "Anchorage, AK",
+    61.2181,
+    -149.9003,
+    -9,
+    true,
+    "Alaska"
+  ],
+  [
+    "fairbanks",
+    "Fairbanks, AK",
+    64.83778,
+    -147.71639,
+    -9,
+    true,
+    "Alaska"
+  ],
+  [
+    "hilo",
+    "Hilo, HI",
+    19.72991,
+    -155.09073,
+    -10,
+    false,
+    "Hawaii"
+  ],
+  [
+    "honolulu",
+    "Honolulu, HI",
+    21.3099,
+    -157.8581,
+    -10,
+    false,
+    "Hawaii"
+  ]
+]
