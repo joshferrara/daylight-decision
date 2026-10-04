@@ -13,6 +13,8 @@ npm ci
 npm run dev
 ```
 
+The sky illustration blends colors using the sun’s elevation, with a short color transition between slider steps. Sunrise, sunset, and twilight labels still use their exact calculated boundaries.
+
 Edit `public/index.html`. The site runs entirely in the browser; there is no framework build or backend database. `npm run og` regenerates the social sharing image from the hero illustration.
 
 ## Validation
