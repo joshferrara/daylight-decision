@@ -7,5 +7,11 @@
   },
   "workers_dev": true,
   "preview_urls": false,
-  "account_id": "3ae801a7425f3c280128875b9cec4c4a"
+  "account_id": "3ae801a7425f3c280128875b9cec4c4a",
+  "routes": [
+    {
+      "pattern": "daylightdecision.com",
+      "custom_domain": true
+    }
+  ]
 }
