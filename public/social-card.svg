@@ -1,18 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-<rect width="1200" height="630" fill="#f5f3eb"/>
-<g transform="translate(64 61)" fill="none" stroke="#286251" stroke-width="2"><path d="M0 24h30M4 20a11 11 0 0 1 22 0M15 0v5M2 5l5 5M28 5l-5 5"/></g>
-<text x="108" y="84" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#273b31">Daylight Decision</text>
-<path d="M64 114H1136" stroke="#dce1d6"/>
-<g font-family="Georgia, serif" font-size="66" letter-spacing="-2">
-<text x="64" y="235" fill="#273b31">Daylight Savings</text>
-<text x="64" y="316" fill="#286251" font-style="italic">or Standard Time</text>
+<rect width="1200" height="630" fill="#f3eee0"/>
+<g transform="translate(446 38)" fill="none" stroke="#1e2924" stroke-width="1.6"><path d="M0 24h30M4 20a11 11 0 0 1 22 0M15 0v5M2 5l5 5M28 5l-5 5"/></g>
+<text x="490" y="62" font-family="Fraunces, Georgia, serif" font-size="27" font-style="italic" font-weight="500" letter-spacing="-.4" fill="#1e2924">The Daylight Decision</text>
+<path d="M64 92H1136M64 97H1136" stroke="#1e2924"/>
+<g font-family="Fraunces, Georgia, serif" font-size="80" font-weight="300" letter-spacing="-3.6">
+<text x="62" y="262" fill="#1e2924">Daylight Savings</text>
+<text x="62" y="340" fill="#23594a" font-style="italic">or Standard Time</text>
 </g>
-<g font-family="Arial, sans-serif" font-size="23" fill="#667169">
-<text x="67" y="382">Brighter mornings or longer evenings?</text>
-<text x="67" y="425" font-size="20">See whether permanent daylight saving time</text>
-<text x="67" y="456" font-size="20">or permanent standard time fits your life better.</text>
+<g font-family="Source Serif 4, Georgia, serif" font-size="23" fill="#1e2924">
+<text x="66" y="404">Brighter mornings or longer evenings? See which</text>
+<text x="66" y="438">permanent clock fits your life better.</text>
 </g>
-<g transform="translate(691 185) scale(1.04)"><defs><clipPath id="heroClip"><rect x="18" y="15" width="404" height="248" rx="124"/></clipPath><linearGradient id="heroMorning" x2="0" y2="1"><stop stop-color="#bfd5d2"/><stop offset="1" stop-color="#f7e9ba"/></linearGradient><linearGradient id="heroEvening" x2="0" y2="1"><stop stop-color="#29415d"/><stop offset="1" stop-color="#b98d76"/></linearGradient></defs><g clip-path="url(#heroClip)"><rect x="18" y="15" width="202" height="248" fill="url(#heroMorning)"/><rect x="220" y="15" width="202" height="248" fill="url(#heroEvening)"/><circle cx="220" cy="145" r="50" fill="#f3cd77"/><circle cx="220" cy="145" r="66" fill="none" stroke="#efd08b" stroke-opacity=".3"/><circle cx="220" cy="145" r="83" fill="none" stroke="#efd08b" stroke-opacity=".15"/><path d="M0 217Q100 175 220 206Q327 181 445 215V300H0" fill="#547265"/><path d="M0 240Q112 213 220 231Q340 205 445 238V300H0" fill="#2c4c42"/><path d="M220 15V264" stroke="#f5f3eb" stroke-width="2" stroke-dasharray="4 6"/><g fill="#e6ddc5"><circle cx="319" cy="63" r="1.5"/><circle cx="351" cy="91" r="1"/><circle cx="290" cy="93" r="1"/><circle cx="332" cy="123" r="1"/></g></g><text x="106" y="285" font-family="system-ui" font-size="10" letter-spacing="2" fill="#667169" text-anchor="middle">EARLIER LIGHT</text><text x="334" y="285" font-family="system-ui" font-size="10" letter-spacing="2" fill="#667169" text-anchor="middle">LATER LIGHT</text></g>
-<path d="M64 527H1136" stroke="#dce1d6"/>
-<text x="66" y="570" font-family="Arial, sans-serif" font-size="18" fill="#286251">DaylightDecision.com</text>
+<g transform="translate(672 148) scale(1.06)"><defs><clipPath id="heroClip"><rect x="18" y="15" width="404" height="248" rx="124"/></clipPath><linearGradient id="heroMorning" x2="0" y2="1"><stop stop-color="#bfd5d2"/><stop offset="1" stop-color="#f7e9ba"/></linearGradient><linearGradient id="heroEvening" x2="0" y2="1"><stop stop-color="#29415d"/><stop offset="1" stop-color="#b98d76"/></linearGradient></defs><g clip-path="url(#heroClip)"><rect x="18" y="15" width="202" height="248" fill="url(#heroMorning)"/><rect x="220" y="15" width="202" height="248" fill="url(#heroEvening)"/><circle cx="220" cy="145" r="50" fill="#f3cd77"/><circle cx="220" cy="145" r="66" fill="none" stroke="#efd08b" stroke-opacity=".3"/><circle cx="220" cy="145" r="83" fill="none" stroke="#efd08b" stroke-opacity=".15"/><path d="M0 217Q100 175 220 206Q327 181 445 215V300H0" fill="#547265"/><path d="M0 240Q112 213 220 231Q340 205 445 238V300H0" fill="#2c4c42"/><path d="M220 15V264" stroke="#f5f3eb" stroke-width="2" stroke-dasharray="4 6"/><g fill="#e6ddc5"><circle cx="319" cy="63" r="1.5"/><circle cx="351" cy="91" r="1"/><circle cx="290" cy="93" r="1"/><circle cx="332" cy="123" r="1"/></g></g><text x="106" y="285" font-family="IBM Plex Mono, monospace" font-size="10" letter-spacing="2" fill="#667169" text-anchor="middle">EARLIER LIGHT</text><text x="334" y="285" font-family="IBM Plex Mono, monospace" font-size="10" letter-spacing="2" fill="#667169" text-anchor="middle">LATER LIGHT</text></g>
+<path d="M64 532H1136M64 537H1136" stroke="#1e2924"/>
+<g font-family="IBM Plex Mono, monospace" font-size="15" font-weight="500" letter-spacing="2.4">
+<text x="64" y="580" fill="#1e2924">DAYLIGHTDECISION.COM</text>
+<text x="1136" y="580" fill="#a65f1f" text-anchor="end">WHERE SHOULD THE HOUR GO?</text>
+</g>
 </svg>

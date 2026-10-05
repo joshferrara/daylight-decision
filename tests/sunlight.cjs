@@ -31,8 +31,10 @@ assert.equal(app.overlap({sunrise:1380,sunset:1500},0,120),60,'Midnight-crossing
 const safe=app.safeState({city:'bad',date:'2026-02-30',wake:900,leave:800,finish:700,bed:600,weight:Infinity,lat:90});
 assert.equal(safe.city,'chicago');assert.equal(safe.date,'2026-12-21');assert.equal(safe.wake,390);assert.equal(safe.lat,undefined);
 assert.equal(app.safeState({city:'custom',lat:0,lon:0,offset:0}).city,'chicago');
-element('weight').value=0;element('weight').listeners.input();assert.match(element('verdict-title').textContent,/standard/);
-element('weight').value=100;element('weight').listeners.input();assert.match(element('verdict-title').textContent,/daylight saving/);
+assert.equal(app.safeState({weight:70}).weight,100);assert.equal(app.safeState({weight:50}).weight,50);
+assert.match(element('verdict-title').textContent,/Morning or evening/);
+element('choose-morning').listeners.click();assert.match(element('verdict-title').textContent,/standard/);
+element('choose-evening').listeners.click();assert.match(element('verdict-title').textContent,/daylight saving/);
 const result={passed:true,locations:ids.length,cityDays:ids.length*365,usnoComparisons:external};
 
 console.log(JSON.stringify(result,null,2));

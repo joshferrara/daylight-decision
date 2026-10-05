@@ -15,7 +15,7 @@ npm run dev
 
 The sky illustration blends colors using the sun’s elevation, with a short color transition between slider steps. Sunrise, sunset, and twilight labels still use their exact calculated boundaries.
 
-Edit `public/index.html`. The site runs entirely in the browser; there is no framework build or backend database. `npm run og` regenerates the social sharing image from the hero illustration.
+Edit `public/index.html`. The site runs entirely in the browser; there is no framework build or backend database. `npm run og` regenerates the social sharing image from the hero illustration; it renders with headless Chrome so the card can use the site typefaces.
 
 ## Validation
 
@@ -35,4 +35,4 @@ For an authorized manual deployment:
 npm run deploy
 ```
 
-The application stores settings locally in the visitor's browser and can create a shareable URL. It does not use location tracking or analytics. SunCalc 1.9.0 is embedded with its MIT license; city coordinates are attributed to GeoNames (CC BY 4.0). Evidence and history sources are linked in the page.
+The application stores settings locally in the visitor's browser and can create a shareable URL. It does not use location tracking or analytics. Typefaces (Fraunces, Source Serif 4, IBM Plex Mono) load from Google Fonts. SunCalc 1.9.0 is embedded with its MIT license; city coordinates are attributed to GeoNames (CC BY 4.0). Evidence and history sources are linked in the page.
